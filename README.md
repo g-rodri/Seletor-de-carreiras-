@@ -21,9 +21,7 @@ pip install numpy
 
 Agora, basta iniciar o código
 
-Bash
-
-python carreiras.py
+________________________________________________________
  Como a mágica acontece?
 Se você está curioso sobre a lógica, o sistema funciona assim:
 
@@ -39,7 +37,7 @@ O script pega suas notas, multiplica pela importância de cada habilidade naquel
 O aviso (Gaps)
 O sistema é inteligente: ele só sugere estudos se a habilidade for muito importante para a carreira e sua nota for baixa. Assim, ele foca no que realmente importa para você evoluir.
 
-
+___________________________________________
 
 Configuração (O Banco de Dados): Logo no começo, temos os dicionários DB_C e DB_CARREIRAS. Caso queira adicionar novas carreiras as coloque lá.
 
@@ -59,7 +57,7 @@ Carreira('Desenvolvedor Front-end', {
     'adaptabilidade': 20
     
 })
-
+_______________________________________________________________________________
  Exemplo de Resultado:
  
 
@@ -73,6 +71,7 @@ RESULTADOS PARA: JOÃO
    • Ética Digital (Sua Nota: 2)
 
      Ação: Estude LGPD e vieses em IA.
+
 
 
 
