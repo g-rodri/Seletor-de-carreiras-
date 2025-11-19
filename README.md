@@ -49,7 +49,7 @@ Exemplo de como adicionar uma carreira nova:
 
 Python
 
-# É só colar isso na lista DB_CARREIRAS
+É só colar isso na lista DB_CARREIRAS
 Carreira('Desenvolvedor Front-end', {
     'criatividade': 30, 
     'logica': 30, 
@@ -70,3 +70,4 @@ Carreira('Desenvolvedor Front-end', {
    • Ética Digital (Sua Nota: 2)
 
      Ação: Estude LGPD e vieses em IA.
+
