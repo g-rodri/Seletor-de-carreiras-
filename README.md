@@ -68,4 +68,5 @@ Carreira('Desenvolvedor Front-end', {
 
 ⚠️  PONTOS DE ATENÇÃO:
    • Ética Digital (Sua Nota: 2)
+
      Ação: Estude LGPD e vieses em IA.
