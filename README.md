@@ -1,17 +1,16 @@
 Este é um projeto codado em Python, que ajuda a descobrir qual carreira tech (ML, UX/UI, DevOps) combina mais com o seu perfil atual.
-
+______________________________________________________________________________________________________________________________________
 Ele não é apenas um quiz de "Sim ou Não"; usamos NumPy e médias ponderadas para calcular a afinidade do seu perfil com as vagas.
 
 O que ele faz?
+
  Quiz Interativo: faz perguntas rápidas sobre suas habilidades (Lógica, Criatividade, Ética, etc).
-
  Match Inteligente: O sistema sabe que Criatividade é crucial para Design, mas Automação é vital para DevOps. Ele pesa isso na decisão final.
-
  Mentor Virtual: Se você tem um match alto com uma carreira, mas carece em uma habilidade crítica, o sistema te avisa exatamente o que estudar (ex: "Aprenda Pandas" ou "Estude LGPD").
-
  Ranking: Mostra as opções ordenadas da que mais combina para a que menos combina.
-
+______________________________________________________________________
  Como executar?
+ 
 Você só precisa do Python instalado e de uma biblioteca extra para a matemática funcionar.
 
 Após baixar e abrir o arquivo em seu ambiente de programação de preferência: 
@@ -74,6 +73,7 @@ RESULTADOS PARA: JOÃO
    • Ética Digital (Sua Nota: 2)
 
      Ação: Estude LGPD e vieses em IA.
+
 
 
 
