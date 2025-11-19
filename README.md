@@ -58,10 +58,9 @@ Carreira('Desenvolvedor Front-end', {
  Exemplo de Resultado:
 
 
-
-============================================================
- RESULTADOS PARA: JOÃO
-============================================================
+===============================================
+RESULTADOS PARA: JOÃO
+===============================================
 
 🏆 RECOMENDAÇÃO PRINCIPAL: DevOps & SRE
  Match de Perfil: 92.5%
@@ -70,4 +69,5 @@ Carreira('Desenvolvedor Front-end', {
    • Ética Digital (Sua Nota: 2)
 
      Ação: Estude LGPD e vieses em IA.
+
 
